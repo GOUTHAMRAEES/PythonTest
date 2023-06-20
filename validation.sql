@@ -1,7 +1,6 @@
 
 DECLARE
-   nglocalobjid      ngmssintegration.object_xref.local_object_id%TYPE
-                                                                  := ;
+  
    hplocalobjid      ngmssintegration.object_xref.local_object_id%TYPE
                                                                    := ;
    business_entity   ngmssintegration.object_xref.business_entity%TYPE  := '';
